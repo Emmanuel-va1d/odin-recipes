@@ -18,3 +18,16 @@ Anchor my writting to a hyperlink reference
 and
 Source an image onto my webpage using...
 Both absolute and relative links
+
+
+Update 12-30-2022
+Adding CSS styles to the page
+
+Now this project will ultilize different styles using...
+
+An external CSS file that's linked to the different HTML files
+
+Use type, class, and ID selectors to style specific elements in the HTML file
+
+Be able to change the background color, text color, font size & style, and change
+the width and height properties of different elements
