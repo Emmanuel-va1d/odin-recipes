@@ -1,0 +1,29 @@
+* {
+    background-color: lightgrey;
+}
+
+a {
+    color: black;
+    text-align: center;
+    height: 50px;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+}
+
+strong {
+    background-color: white;
+    width: fit-content;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    display: inline;
+}
+
+.steps li {
+    height: 50px;
+}
